@@ -1,0 +1,10 @@
+.pageContainer {
+  /* border: 1px solid #c7c0c0; */
+  /* background-color: #f9f7f7; */
+  margin: 100px;
+  padding: 20px;
+}
+.MuiSelect-select.MuiInputBase-input.MuiOutlinedInput-input.MuiSelect-select {
+  /* your styles here */
+  width: 10rem;
+}

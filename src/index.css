@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* target the label element within the TextField */
+.MuiInputLabel-root.Mui-focused {
+  color: #6a43ff !important;
+}
+
+.Mui-focused.MuiInputBase-underline:before {
+  border-bottom-color: #6a43ff !important;
+}
+body{
+  background-color:beige;
+}
